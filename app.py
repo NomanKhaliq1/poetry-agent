@@ -22,6 +22,7 @@ poetry = {
             "محبت کا سلسلہ بھی عجیب ہے،\nانجانے لوگوں سے شروع ہوتا ہے،\nاور بے پناہ یادوں میں سما جاتا ہے۔"
         ]
     },
+
     "Sad": {
         "Roman Urdu": [
             "Jo log khamosh rehte hain,\nWoh aksar dil ke sabse gehre zakham chhupaye hote hain.",
@@ -34,6 +35,51 @@ poetry = {
         "Urdu": [
             "جو لوگ خاموش رہتے ہیں،\nوہ اکثر دل کے سب سے گہرے زخم چھپائے ہوتے ہیں۔",
             "تنہائی کا درد سمجھنا آسان نہیں،\nوہ صرف محسوس ہوتا ہے، بیان نہیں ہوتا۔"
+        ]
+    },
+
+    "Motivational": {
+        "Roman Urdu": [
+            "Gir kar uthna seekh lo,\nZindagi haarne walon ko mauka nahi deti.",
+            "Sapne unke sach hote hain,\nJo din mein bhi unhe dekhte hain."
+        ],
+        "English": [
+            "Learn to rise after every fall,\nLife gives no chance to those who quit.",
+            "Dreams come true for those,\nWho chase them even in daylight."
+        ],
+        "Urdu": [
+            "گر کر اُٹھنا سیکھ لو،\nزندگی ہارنے والوں کو موقع نہیں دیتی۔",
+            "خواب اُن کے ہی سچ ہوتے ہیں،\nجو دن میں بھی اُنہیں دیکھتے ہیں۔"
+        ]
+    },
+
+    "Friendship": {
+        "Roman Urdu": [
+            "Dosti wo rishta hai jo dil se hota hai,\nWaqt ke sath nahi, ehsaas se mazboot hota hai.",
+            "Asli dost wo nahi jo muskura kar sath de,\nBalki wo hai jo ro kar bhi sath na chhode."
+        ],
+        "English": [
+            "Friendship is a bond from the heart,\nNot built by time but strengthened by feeling.",
+            "A true friend isn’t the one who smiles with you,\nBut the one who stays even through tears."
+        ],
+        "Urdu": [
+            "دوستی وہ رشتہ ہے جو دل سے ہوتا ہے،\nوقت کے ساتھ نہیں، احساس سے مضبوط ہوتا ہے۔",
+            "اصلی دوست وہ نہیں جو مسکرا کر ساتھ دے،\nبلکہ وہ ہے جو رو کر بھی ساتھ نہ چھوڑے۔"
+        ]
+    },
+
+    "Life": {
+        "Roman Urdu": [
+            "Zindagi ek safar hai, manzil nahi,\nHar mod par seekhne ka naya sabab milta hai.",
+            "Khush rehna ek hunar hai,\nJo sab ke paas nahi hota."
+        ],
+        "English": [
+            "Life is a journey, not a destination,\nEvery turn teaches something new.",
+            "Happiness is an art,\nNot everyone masters it."
+        ],
+        "Urdu": [
+            "زندگی ایک سفر ہے، منزل نہیں،\nہر موڑ پر سیکھنے کا نیا سبب ملتا ہے۔",
+            "خوش رہنا ایک ہنر ہے،\nجو سب کے پاس نہیں ہوتا۔"
         ]
     }
 }
