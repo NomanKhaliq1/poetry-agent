@@ -1,12 +1,1 @@
-{
-  "title": "Poetry Agent",
-  "description": "Streamlit-powered poetry picker with multilingual categories, random selections, and favorites download.",
-  "techTags": ["Python", "Streamlit"],
-  "source": "github",
-  "category": "Python",
-  "live_url": "https://poetry-agent-a46vkw27a8gcknetptamyz.streamlit.app/",
-  "repo_name": "poetry-agent",
-  "repo_link": true,
-  "image": "/projects/poetry-agent.webp",
-  "fetch": true
-}
+
